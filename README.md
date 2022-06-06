@@ -1,1 +1,1 @@
-# DU ICT-4370 Week 10 project
+# DU Week 10 project- Python Programming
